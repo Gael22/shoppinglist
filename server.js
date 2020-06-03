@@ -5,7 +5,7 @@ const path = require('path');
 
 // mongoose.connect(uri, {useNewUrlParser: true});
 
-const items = require('./routes/api/items');
+const items = require('./routes/api/items')
 
 const app = express();
 
