@@ -1,7 +1,7 @@
 import { Router } from 'express';
 import auth from '../../middleware/auth';
 // Item Model
-import Item from '../../models/Item';
+import Item from '../../models/align-items';
 
 const router = Router();
 
